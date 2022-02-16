@@ -1,0 +1,10 @@
+p{margin: 0;}
+.homework-array { background-color: #4b4b4b;}
+.homework-array .homework-header .header-property {text-align: center;color: #fff;background-color: #3d3d3d;font-size: 28px;padding: 15px;letter-spacing: 1px; margin-top: -4px;}
+.homework-array .star-area {position: relative;min-height: 184px;padding: 40px 200px; }
+.homework-array .star-area .star {color: #fff; }
+.homework-array .star-area .take-star {display: flex;flex-direction: column;max-width: 220px; position: absolute;top: 40px;right: 40px;}
+.homework-array .star-area .take-star input { background-color: transparent;color: #fff;outline-style: none;padding: 12px;border-radius: 20px;background-color: #17c0eb;}
+.homework-array .star-area .take-star input::placeholder{color: #fff;}
+.homework-array .star-area .take-star .btn-property { background-color: #ff9f1a;color: #fff;border-radius: 20px;padding: 12px;margin-top: 20px;transition: .2s;cursor: pointer;}
+.homework-array .star-area .take-star .btn-property:hover{background-color: #32ff7e;}
